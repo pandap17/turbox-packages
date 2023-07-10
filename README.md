@@ -28,9 +28,8 @@
 
 ## Step 5: Save Your Turbox Package
 
-- Once you have selected the sprite files and entered the extension links (if applicable), the JSON output will be generated.
-- A file dialog window will appear, asking you to choose the directory and enter a filename for your Turbox Package.
-- Select the directory where you want to save your package and enter a filename with a `.tpkg` extension (e.g., `myapp.tpkg`).
+- Once you have selected the sprite files and entered the extension links (if applicable), a file dialog window will appear, asking you to choose the directory and enter a filename for your Turbox Package.
+- Select the directory where you want to save your package and enter a filename. Ensure your filename ends with a `.tpkg` extension (e.g., `myapp.tpkg`).
 - Click the "Save" button to save your Turbox Package.
 
 ## Step 6: Submit a Pull Request
